@@ -1,0 +1,1 @@
+df <- get(load('capstone_ngram.RData'))
